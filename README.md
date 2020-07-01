@@ -1,5 +1,4 @@
-<h2 itemprop="name">
-				Open Data			</h2>
+<h2 >Open Data</h2>
 </div>
 <div itemprop="articleBody">
 <p><a href="/ms/terma-penggunaan"></a></p>
@@ -53,16 +52,17 @@
 </div>
 </div>
 </section>
-<sub>CONTACT US</sub><br />
-<tt>MALAYSIAN ADMINISTRATIVE</tt><p>
-<tt>MODERNISATION AND MANAGEMENT PLANNING UNIT</tt><br />
-Level 6, Setia Perdana 2<br />
-Setia Perdana Complex<br />
-Federal Government Administrative Centre<br />
-62502 Putrajaya, Malaysia</tt><br />
-    T 603 8000 8000 &nbsp; F 603 8888 3721<br />E <span style="color: #ffff00;">webmaster[at]mampu.gov.my</span></p></div>
+<span><sub>CONTACT US</sub><br />
+	<sub>MALAYSIAN ADMINISTRATIVE</sub><br />
+	<sup>MODERNISATION AND MANAGEMENT PLANNING UNIT</sup><br />
+	<tt>Level 6, Setia Perdana 2</tt><br />
+	<tt>Setia Perdana Complex</tt><br />
+	<tt>Federal Government Administrative Centre</tt><br />
+	<tt>62502 Putrajaya, Malaysia</tt><br />
+	<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Tel:</sup> 603 8000 8000 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <sup>Fax:</sup> 603 8888 3721 <br />
+		&nbsp; &nbsp; &nbsp; <sup>Email: </sup><span style="color: #ffff00;">webmaster[at]mampu.gov.my</span><br>
 <div class="visitorcounter "> 
-<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visitor : 224829 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Updated Date : 01 July 2020.</p> </div>
+	&nbsp; &nbsp; &nbsp;<sup>Visitor:</sup> 224829 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sup>Updated Date :</sup> 01 July 2020.</p> </div>
 <h6>2020 MAMPU.All rights reserved</h6>
 <footer id="g-footer">
 <div class="g-container">
@@ -74,5 +74,3 @@ Federal Government Administrative Centre<br />
 <ul class="nav menu mod-list">
 <li class="item-584"><a href="/en/faqs" >FAQs</a></li><li class="item-349"><a href="/en/team-portal" >Portal Team </a></li><li class="item-169"><a href="/en/security-policy" >Security Policy</a></li><li class="item-162"><a href="/en/privacy-policy" >Privacy Policy</a></li><li class="item-167"><a href="/en/disclaimer" >Disclaimer</a></li><li class="item-211"><a href="/en/bantuan" >Support</a></li><li class="item-161"><a href="/en/site-map" >Peta Laman /Site Map /</a></li><li class="item-710"><a href="/en/archive" >Elektronic Archive</a></li></ul>
 </div></div>
-
-
