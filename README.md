@@ -53,6 +53,17 @@
 </div>
 </div>
 </section>
+<sub>CONTACT US</sub><br />
+<tt>MALAYSIAN ADMINISTRATIVE</tt><p>
+<tt>MODERNISATION AND MANAGEMENT PLANNING UNIT</tt><br />
+Level 6, Setia Perdana 2<br />
+Setia Perdana Complex<br />
+Federal Government Administrative Centre<br />
+62502 Putrajaya, Malaysia</tt><br />
+    T 603 8000 8000 &nbsp; F 603 8888 3721<br />E <span style="color: #ffff00;">webmaster[at]mampu.gov.my</span></p></div>
+<div class="visitorcounter "> 
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visitor : 224829 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Updated Date : 01 July 2020.</p> </div>
+<h6>2020 MAMPU.All rights reserved</h6>
 <footer id="g-footer">
 <div class="g-container">
 <div class="g-grid">
@@ -65,14 +76,3 @@
 </div></div>
 
 
-CONTACT US<br>
-<tt>MALAYSIAN ADMINISTRATIVE</tt><br>
-<tt>MODERNISATION AND MANAGEMENT PLANNING UNIT</tt><br>
-<tt>Level 6, Setia Perdana 2</tt><br>
-<tt>Setia Perdana Complex</tt><br>
-<tt>Federal Government Administrative Centre</tt><br>
-<tt>62502 Putrajaya, Malaysia</tt><br />
-    T 603 8000 8000 &nbsp; F 603 8888 3721<br />E <span style="color: #ffff00;">webmaster[at]mampu.gov.my</span></p></div>
-<div class="visitorcounter "> 
-<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Visitor : 224829 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Updated Date : 01 July 2020.</p> </div>
-<h6>2020 MAMPU.All rights reserved</h6>
